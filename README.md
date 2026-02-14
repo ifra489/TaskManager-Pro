@@ -20,6 +20,8 @@ It allows you to **add, delete, complete, and filter** tasks. Your todos are sav
 
 ![Todo App Screenshot](todo.png)
 ![Todo  Screenshot](todo1.png)
+![Todo  Screenshot](todo2.png)
+![Todo  Screenshot](todo4.png)
 
 ## Concepts Used
 
